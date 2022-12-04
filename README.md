@@ -14,3 +14,7 @@ packages, that perfectly fits into the tube, but it needs some support from a PC
 This is, what this repo is for. You will find 3D-Models, the schematics, the PCB design files and some specs, how the tube needs to be pressed.
 
 Later, I'll also provide the CAD files for some tools to aid in pressing the steel tube correctly.
+
+![Assembled PCB](IMG/Sensor_PCB_assembled.jpg)
+![Sensor assembled](IMG/Steel-Sensor.jpg)
+![TechDraw](IMG/TechDraw_Sensor-Tube.png)
